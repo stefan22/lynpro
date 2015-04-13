@@ -1,3 +1,3 @@
-#_lynpro_
+#_LYNPRO_
 
 > Practice exercises using **Git** commands
